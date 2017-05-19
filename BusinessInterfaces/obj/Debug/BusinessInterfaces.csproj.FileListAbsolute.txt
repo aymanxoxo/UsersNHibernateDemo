@@ -1,0 +1,7 @@
+F:\Workspace\UsersNHibernateDemo\BusinessInterfaces\bin\Debug\BusinessInterfaces.dll
+F:\Workspace\UsersNHibernateDemo\BusinessInterfaces\bin\Debug\BusinessInterfaces.pdb
+F:\Workspace\UsersNHibernateDemo\BusinessInterfaces\bin\Debug\DataModels.dll
+F:\Workspace\UsersNHibernateDemo\BusinessInterfaces\bin\Debug\DataModels.pdb
+F:\Workspace\UsersNHibernateDemo\BusinessInterfaces\obj\Debug\BusinessInterfaces.csprojResolveAssemblyReference.cache
+F:\Workspace\UsersNHibernateDemo\BusinessInterfaces\obj\Debug\BusinessInterfaces.dll
+F:\Workspace\UsersNHibernateDemo\BusinessInterfaces\obj\Debug\BusinessInterfaces.pdb
