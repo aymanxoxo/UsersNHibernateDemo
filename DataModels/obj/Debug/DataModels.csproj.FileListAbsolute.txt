@@ -1,0 +1,4 @@
+F:\Workspace\UsersNHibernateDemo\DataModels\bin\Debug\DataModels.dll
+F:\Workspace\UsersNHibernateDemo\DataModels\bin\Debug\DataModels.pdb
+F:\Workspace\UsersNHibernateDemo\DataModels\obj\Debug\DataModels.dll
+F:\Workspace\UsersNHibernateDemo\DataModels\obj\Debug\DataModels.pdb

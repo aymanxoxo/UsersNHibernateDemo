@@ -1,0 +1,7 @@
+F:\Workspace\UsersNHibernateDemo\IDataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Workspace\UsersNHibernateDemo\IDataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Workspace\UsersNHibernateDemo\IDataAccessLayer\bin\Debug\DataModels.dll
+F:\Workspace\UsersNHibernateDemo\IDataAccessLayer\bin\Debug\DataModels.pdb
+F:\Workspace\UsersNHibernateDemo\IDataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\Workspace\UsersNHibernateDemo\IDataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Workspace\UsersNHibernateDemo\IDataAccessLayer\obj\Debug\DataAccessLayer.pdb

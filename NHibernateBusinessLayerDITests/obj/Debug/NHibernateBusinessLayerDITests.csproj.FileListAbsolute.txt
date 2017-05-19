@@ -1,0 +1,16 @@
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\NHibernateBusinessLayerDITests.dll
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\NHibernateBusinessLayerDITests.pdb
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\BusinessInterfaces.dll
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\DataModels.dll
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\Ninject.dll
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\BusinessInterfaces.pdb
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\DataModels.pdb
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\Ninject.xml
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\obj\Debug\NHibernateBusinessLayerDITests.csprojResolveAssemblyReference.cache
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\obj\Debug\NHibernateBusinessLayerDITests.dll
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\obj\Debug\NHibernateBusinessLayerDITests.pdb
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\BusinessLayer.dll
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\DataAccessLayer.dll
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\BusinessLayer.pdb
+F:\Workspace\UsersNHibernateDemo\NHibernateBusinessLayerDITests\bin\Debug\DataAccessLayer.pdb
